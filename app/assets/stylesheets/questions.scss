@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+
+$pink: #E72676;
+$font-stack: Cormorant Garamond, serif;
+
+
+ body {
+   color: $pink;
+   font: $font-stack;
+   background: white;
+ }
